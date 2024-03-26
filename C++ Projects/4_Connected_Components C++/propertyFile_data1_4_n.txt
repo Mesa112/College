@@ -1,0 +1,3 @@
+Label: 1, NumPixels: 15, MinR: 1, MinC: 1, MaxR: 9, MaxC: 9
+Label: 2, NumPixels: 5, MinR: 1, MinC: 4, MaxR: 4, MaxC: 5
+Label: 3, NumPixels: 23, MinR: 1, MinC: 3, MaxR: 9, MaxC: 9

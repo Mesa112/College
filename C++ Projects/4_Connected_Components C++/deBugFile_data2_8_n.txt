@@ -1,0 +1,18 @@
+starting to debug
+Entering connected8Pass1   method
+After connected8 pass1, newLabel = 6
+Entering connect8Pass2 method.
+After connect8Pass2.
+Entering manageEQAry method.
+After consolidation, trueNumCC = 0
+Leaving manageEQAry method.
+Entering manageEQAry method.
+After consolidation, trueNumCC = 0
+Leaving manageEQAry method.
+In connected8, after manage EQAry, trueNumCC = 0
+Entering connectPass3 method.
+Leaving connectPass3 method.
+Printing the final labeled image to the labelFile.
+Finished printing the labeled image.
+Leaving connected8 method
+Debugging ended.

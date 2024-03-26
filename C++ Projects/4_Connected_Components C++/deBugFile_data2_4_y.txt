@@ -1,0 +1,19 @@
+starting to debug
+Entering connect4 method.
+Entering connect4Pass1 method.
+After connect4Pass1, newLabel = 15
+Entering connect4Pass2 method.
+After connect4Pass2.
+Entering manageEQAry method.
+After consolidation, trueNumCC = 13
+Leaving manageEQAry method.
+Entering manageEQAry method.
+After consolidation, trueNumCC = 6
+Leaving manageEQAry method.
+In connected4, after manage EQAry, trueNumCC = 6
+Entering connectPass3 method.
+Leaving connectPass3 method.
+Printing the final labeled image to the labelFile.
+Finished printing the labeled image.
+Leaving connected4 method
+Debugging ended.
