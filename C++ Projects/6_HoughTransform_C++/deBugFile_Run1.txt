@@ -1,0 +1,4 @@
+Entering buildHoughSpace
+Entering computeSinusoid()
+Leaving computeSinusoid()
+Leaving buildHoughSpace
